@@ -28,7 +28,7 @@ The app then:
 
 ## 🖼️ GUI Preview
 
-> Screenshot preview can go here (optional)
+TODO
 
 ## 📦 Requirements
 
